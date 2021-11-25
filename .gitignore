@@ -132,5 +132,6 @@ dmypy.json
 *.json
 *.csv
 *.txt
-/projects/*
-/data/*
+projects/*
+data/*
+AnyBURL/*
